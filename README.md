@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sk. Nahid</h1>
 <h3 align="center">A passionate Android APP developer.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=73-sk-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="73-sk-nahid" /> </p>
 
