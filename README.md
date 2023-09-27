@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=73-sk-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="73-sk-nahid" /> </p>
 
-- 🔭 I’m currently working on **Flutter Development**
+- 🔭 I’m currently working on **Native Android Development (Java)**
 
 - 🌱 I’m currently learning **Flutter, Machine Learning**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Android Applications Project**
 
 - 🤝 I’m looking for help with **Learning Flutter**
 
