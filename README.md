@@ -10,6 +10,10 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
 </p>
+<p align="center"> 
+  Visitor count<br>
+  ![Profile views](https://gpvc.arturio.dev/73-sk-nahid)
+</p>
 
 - 🔭 I’m currently working on **Android APP Development (Java)**
 
