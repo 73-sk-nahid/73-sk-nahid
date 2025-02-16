@@ -1,18 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/16265425/207836953-763fc4de-da14-4ee5-ba25-7905ab7464e8.gif)
 <h1 align="center">Hi 👋, I'm Sk. Nahid</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+Android+APP+developer" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+APP+developer" alt="Example Usage - README Typing SVG">
 </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=73-sk-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="73-sk-nahid" /> </p>
 
 
-- 🔭 I’m currently working on **Android APP Development (Java)**
+- 🌱 I’m currently working on **Flutter, Machine Learning**
 
-- 🌱 I’m currently learning **Flutter, Machine Learning**
-
-- 👯 I’m looking to collaborate on **Android Applications Project**
+- 👯 I’m looking to collaborate on **Mobile Applications Project**
 
 - 🤝 I’m looking for help with **Learning Flutter**
 
